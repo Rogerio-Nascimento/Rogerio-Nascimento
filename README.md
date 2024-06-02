@@ -1,8 +1,8 @@
 
 ## Fala galera 👋
-### Olá, eu sou o Rogério Nascimento 👋
+### Eu sou o Rogério Nascimento 👋
 
-**Rogério** é ✨ Analista/Cientista de dados ✨ e um apaixonado por tecnologia!
+**Rogério** é ✨ Analista/Cientista de dados ✨ e também um apaixonado por tecnologia!
 
 - 🔭 Atualmente sou Analista de dados Jr.
 - 🌱 Tecnologo em informatica para negócios pela FATEC SBC
