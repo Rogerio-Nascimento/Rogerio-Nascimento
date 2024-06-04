@@ -6,7 +6,7 @@
 - 🌱 Formado em Tecnologo em informatica para negócios pela FATEC SBC
 
 
-### **📱 Minhas habilidades/especialidades:**
+### **📱 Minhas habilidades/especialidades incluem:**
 - 📚   
 - Alteryx;
 -	Python;
