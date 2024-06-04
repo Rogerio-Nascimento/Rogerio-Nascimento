@@ -8,7 +8,7 @@
 - 🌱 Tecnologo em informatica para negócios pela FATEC SBC
 
 
-### Minhas habilidades e especialidades
+### Minhas habilidades/especialidades
 📱 **Especialidades:**
 - 📚   
 - Alteryx;
