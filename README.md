@@ -33,5 +33,5 @@
 ### Principais Projetos
 ### 📌 Projetos em Destaque
 
-[![Readme Card](https://github.com/Rogerio-Nascimento/Rogerio-Nascimento/assets/87660080/bc31a058-c716-47a7-ab71-e0f51f037eec)](https://github.com/Rogerio-Nascimento/Projeto_Automacao_Procedures)
+[![Readme Card](https://github.com/Rogerio-Nascimento/Rogerio-Nascimento/assets/87660080/4e7c617d-fb25-40e4-abe8-02f24c0060ad)](https://github.com/Rogerio-Nascimento/Projeto_Automacao_Procedures)
 
