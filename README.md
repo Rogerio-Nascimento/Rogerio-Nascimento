@@ -33,6 +33,12 @@
 ### Principais Projetos
 ### 📌 Projetos em Destaque
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=falvojr&repo=santander-dev-week-2023)](https://github.com/falvojr/santander-dev-week-2023)
+
+
+
+
+
 [[Readme Card](https://github.com/Rogerio-Nascimento/Rogerio-Nascimento/assets/87660080/663e0807-baea-41a4-af19-948c5d8c1fe4)
 ](https://github.com/Rogerio-Nascimento/Projeto_Automacao_Procedures)
 
