@@ -1,6 +1,6 @@
 
 ## Fala galera 👋
-### Eu sou o Rogério Nascimento 👋
+### Eu sou o Rogério Nascimento
 
 **Rogério** é ✨ Analista/Cientista de dados ✨ e também um apaixonado por tecnologia!
 
