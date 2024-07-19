@@ -3,7 +3,7 @@
 ### Eu sou o Rogério Nascimento  ✨ Analista de Dados/BI ✨ e também um apaixonado por tecnologia!
 
 - 🔭 Atualmente sou Analista de dados Jr. Lighthouse na KPMG.
-- 🌱 Formado em Tecnologo em informatica para negócios pela FATEC SBC
+- 🌱 Formado em Tecnologo em informatica para negócios pela FATEC SBC.
 
 
 ### **📱 Minhas habilidades/especialidades incluem:**
